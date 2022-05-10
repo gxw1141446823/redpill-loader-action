@@ -15,7 +15,7 @@ jobs:
       - name: Build DS3615xs 7.0.1
         id: build-ds3615xs-70
         run: |
-            bash build-ds3615xs-7.0.1.sh
+# bash build-ds3615xs-7.0.1.sh
       - name: Build DS918+ 7.0.1
         id: build-ds918-70
         run: |
